@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <your GitHub username>
+   # github/FEZEKIL
 
    # Input:
    # p, principal amount
